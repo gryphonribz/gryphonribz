@@ -1,12 +1,10 @@
-- 👋 Hi, I’m @hex-hacker
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+![hex-hacker's Stats](https://github-readme-stats.vercel.app/api?username=hex-hacker&theme=midnight-purple&show_icons=true&hide_border=true&count_private=false)
 
-<!---
-hex-hacker/hex-hacker is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+
+![hex-hacker's Streak](https://github-readme-streak-stats.herokuapp.com/?user=hex-hacker&theme=midnight-purple&hide_border=true)
+
+
+
+
+![hex-hacker's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hex-hacker&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact)
