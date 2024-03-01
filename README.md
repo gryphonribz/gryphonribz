@@ -10,9 +10,39 @@
 
 
 
-### Github Stats
-![gryphonribz's Stats](https://github-readme-stats.vercel.app/api?username=gryphonribz&theme=blueberry&show_icons=true&hide_border=false&count_private=false)
-
-![gryphonribz's Streak](https://github-readme-streak-stats.herokuapp.com/?user=gryphonribz&theme=blueberry&hide_border=false)
-
-![gryphonribz's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gryphonribz&theme=blueberry&show_icons=true&hide_border=false&layout=compact)
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GitHub Stats</title>
+    <style>
+        .stats-container {
+            display: flex;
+            justify-content: space-between;
+        }
+        .stats-card {
+            border: 1px solid #ddd;
+            padding: 20px;
+            margin: 10px;
+            width: 30%;
+        }
+    </style>
+</head>
+<body>
+    <div class="stats-container">
+        <div class="stats-card">
+            <h3>Github Stats</h3>
+            <img src="https://github-readme-stats.vercel.app/api?username=gryphonribz&theme=blueberry&show_icons=true&hide_border=false&count_private=false" alt="gryphonribz's Stats">
+        </div>
+        <div class="stats-card">
+            <h3>Streak Stats</h3>
+            <img src="https://github-readme-streak-stats.herokuapp.com/?user=gryphonribz&theme=blueberry&hide_border=false" alt="gryphonribz's Streak">
+        </div>
+        <div class="stats-card">
+            <h3>Top Languages</h3>
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gryphonribz&theme=blueberry&show_icons=true&hide_border=false&layout=compact" alt="gryphonribz's Top Languages">
+        </div>
+    </div>
+</body>
+</html>
