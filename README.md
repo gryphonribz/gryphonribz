@@ -51,7 +51,8 @@ void main() {
  <a href="https://www.gnome.org/" target="_blank"><img alt="GNOME" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Gnomelogo.svg/640px-Gnomelogo.svg.png" /></a>
 
 <a href="https://wayland.freedesktop.org/" target="_blank"><img alt="Wayland" width="35px" src="https://wayland.freedesktop.org/wayland.png" /></a>
-<a href="https://code.visualstudio.com/" target="_blank"><img alt="VS Code" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" /></a>
+
+<a href="https://code.visualstudio.com/" target="_blank"><img alt="VS Code" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" /></a>
 
 <a href="https://brave.com/" target="_blank"><img alt="Brave Browser" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Brave_lion_icon.svg/640px-Brave_lion_icon.svg.png" /></a>
 
