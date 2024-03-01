@@ -40,6 +40,7 @@ void main() {
     <a href="https://git-scm.com/" target="_blank"><img alt="Git" width="26px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" /></a>
     <a href="https://github.com/" target="_blank"><img alt="GitHub" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/GitHub_Invertocat_Logo.svg/640px-GitHub_Invertocat_Logo.svg.png" /></a>
     <a href="https://firebase.google.com/" target="_blank"><img alt="Firebase" width="26px" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" /></a>
+    <a href="https://figma.com/" target="_blank"><img alt="figma" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg"></a>
 
 ### Softwares & Utilities
 
