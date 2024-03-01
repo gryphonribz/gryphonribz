@@ -53,10 +53,11 @@ void main() {
 <a href="https://brave.com/" target="_blank"><img alt="Brave Browser" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Brave_lion_icon.svg/640px-Brave_lion_icon.svg.png" /></a>
 <a href="https://librewolf-community.gitlab.io/" target="_blank"><img alt="LibreWolf" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/LibreWolf_icon.svg/640px-LibreWolf_icon.svg.png" /></a>
 <br/>
-<a href="https://sw.kovidgoyal.net/kitty/" target="_blank"><img alt="Kitty" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Kitty%28Terminal-emulator%29.png/640px-Kitty%28Terminal-emulator%29.png" /></a>
+<br/>
+<a href="https://sw.kovidgoyal.net/kitty/" target="_blank"><img alt="Kitty" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Kitty%28Terminal-emulator%29.png/640px-Kitty%28Terminal-emulator%29.png" /></a>
 <a href="https://protonvpn.com/" target="_blank"><img alt="ProtonVPN" width="120px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Proton_VPN_Logo.svg/640px-Proton_VPN_Logo.svg.png" /></a>
-<a href="https://obsproject.com/" target="_blank"><img alt="OBS Studio" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/OBS_Studio_Logo.svg/640px-OBS_Studio_Logo.svg.png" /></a>
-<a href="https://cmake.org/" target="_blank"><img alt="CMake" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/1/13/Cmake.svg" /></a>
+<a href="https://obsproject.com/" target="_blank"><img alt="OBS Studio" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/OBS_Studio_Logo.svg/640px-OBS_Studio_Logo.svg.png" /></a>
+<a href="https://cmake.org/" target="_blank"><img alt="CMake" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/1/13/Cmake.svg" /></a>
 
 ### Github Stats
 ![gryphonribz's Stats](https://github-readme-stats.vercel.app/api?username=gryphonribz&theme=tokyonight&show_icons=true&hide_border=true&count_private=false)
