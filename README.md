@@ -7,42 +7,27 @@
     <a href="https://github.com/" target="_blank"><img alt="GitHub" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/github.svg" /></a>
     <a href="https://firebase.google.com/" target="_blank"><img alt="Firebase" width="26px" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" /></a>
 
+### Softwares & Utilities
+
+<a href="https://www.archlinux.org/" target="_blank"><img alt="Arch Linux" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Archlinux-icon-crystal-64.svg" /> Arch Linux</a>
+ <a href="https://www.gnome.org/" target="_blank"><img alt="GNOME" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/7/7b/Gnomelogo-footprint.svg" /> GNOME</a>
+<a href="https://wayland.freedesktop.org/" target="_blank"><img alt="Wayland" width="26px" src="https://wayland.freedesktop.org/images/wayland.png" /> Wayland</a>
+<a href="https://code.visualstudio.com/" target="_blank"><img alt="VS Code" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" /> VS Code</a>
+<a href="https://brave.com/" target="_blank"><img alt="Brave Browser" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/4/48/Brave-browser-logo.svg" /> Brave Browser</a>
+<a href="https://librewolf-community.gitlab.io/" target="_blank"><img alt="LibreWolf" width="26px" src="https://librewolf-community.gitlab.io/assets/img/librewolf.svg" /> LibreWolf</a>
+<a href="https://sw.kovidgoyal.net/kitty/" target="_blank"><img alt="Kitty" width="26px" src="https://sw.kovidgoyal.net/kitty/static/img/kitty.svg" /> Kitty</a>
+<a href="https://protonvpn.com/" target="_blank"><img alt="ProtonVPN" width="26px" src="https://protonvpn.com/assets/images/logo.svg" /> ProtonVPN</a>
+<a href="https://obsproject.com/" target="_blank"><img alt="OBS Studio" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Open_Broadcaster_Software_Logo.png" /> OBS Studio</a>
+<a href="https://github.com/X0rg/CPU-X" target="_blank"><img alt="CPU-X" width="26px" src="https://github.com/X0rg/CPU-X/raw/master/icons/cpu-x.png" /> CPU-X</a>
+<a href="https://github.com/atareao/indicator-cpufreq" target="_blank"><img alt="CPU-Power GUI" width="26px" src="https://github.com/atareao/indicator-cpufreq/raw/master/data/icons/cpu-power-gui.svg" /> CPU-Power GUI</a>
+<a href="https://cmake.org/" target="_blank"><img alt="CMake" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/1/13/Cmake.svg" /> CMake</a>
+
+### Github Stats
+![gryphonribz's Stats](https://github-readme-stats.vercel.app/api?username=gryphonribz&theme=tokyonight&show_icons=true&hide_border=true&count_private=false)
 
 
+![gryphonribz's Streak](https://github-readme-streak-stats.herokuapp.com/?user=gryphonribz&theme=tokyonight&hide_border=true)
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>GitHub Stats</title>
-    <style>
-        .stats-container {
-            display: flex;
-            justify-content: space-between;
-        }
-        .stats-card {
-            border: 1px solid #ddd;
-            padding: 20px;
-            margin: 10px;
-            width: 30%;
-        }
-    </style>
-</head>
-<body>
-    <div class="stats-container">
-        <div class="stats-card">
-            <h3>Github Stats</h3>
-            <img src="https://github-readme-stats.vercel.app/api?username=gryphonribz&theme=blueberry&show_icons=true&hide_border=false&count_private=false" alt="gryphonribz's Stats">
-        </div>
-        <div class="stats-card">
-            <h3>Streak Stats</h3>
-            <img src="https://github-readme-streak-stats.herokuapp.com/?user=gryphonribz&theme=blueberry&hide_border=false" alt="gryphonribz's Streak">
-        </div>
-        <div class="stats-card">
-            <h3>Top Languages</h3>
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gryphonribz&theme=blueberry&show_icons=true&hide_border=false&layout=compact" alt="gryphonribz's Top Languages">
-        </div>
-    </div>
-</body>
-</html>
+
+![gryphonribz's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gryphonribz&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
+
