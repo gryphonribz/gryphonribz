@@ -35,5 +35,5 @@
 <h2 align="center">Where To Find Me</h2>
 
 <p align="center">
-  <!-- Add your social links here -->
+    ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 </p>
